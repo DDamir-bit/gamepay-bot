@@ -4,3 +4,7 @@ flask==3.1.1
 requests==2.32.4
 aiofiles==23.2.1
 aiohttp==3.9.5
+
+git add requirements.txt Dockerfile
+git commit -m "Обновил зависимости и добавил Dockerfile"
+git push origin main
