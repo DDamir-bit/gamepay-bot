@@ -1,0 +1,12 @@
+2025-08-05 14:09:49,012 - [RAW RESPONSE] 401 - ""
+2025-08-05 14:09:49,013 - Start polling
+2025-08-05 14:09:49,014 - Start polling
+2025-08-05 14:09:49,578 - Run polling for bot @GamePay_DonatBot id=8142352590 - 'GamePay_Bot'
+2025-08-05 14:09:49,580 - Run polling for bot @gpadmin4_bot id=8272358490 - 'gp'
+2025-08-05 14:09:52,078 - Update id=13954704 is handled. Duration 650 ms by bot id=8142352590
+2025-08-05 14:09:53,966 - Update id=13954705 is handled. Duration 227 ms by bot id=8142352590
+2025-08-05 14:09:56,224 - Update id=13954706 is handled. Duration 831 ms by bot id=8142352590
+2025-08-05 14:10:19,869 - [RAW RESPONSE] 401 - ""
+2025-08-05 14:10:19,953 - Received SIGTERM signal
+2025-08-05 14:10:19,954 - Polling stopped for bot @gpadmin4_bot id=8272358490 - 'gp'
+2025-08-05 14:10:19,954 - Polling stopped

@@ -1,0 +1,17 @@
+{
+    "active": {
+        "0001": {
+            "user_id": 6764785479,
+            "username": "eroive",
+            "game": "Roblox",
+            "status": "Чек отправлен",
+            "timestamp": 1754402566.839127,
+            "check": "AgACAgIAAxkBAAIBPmiSDxZDxu6_ehgsiSNmtMhupS29AAJF_TEbDuaQSAQkffwaKfp7AQADAgADeQADNgQ"
+        }
+    },
+    "archive": [],
+    "queue": [
+        "0001"
+    ],
+    "counter": 2
+}
